@@ -1,0 +1,7 @@
+git init
+git status
+git add .
+git commit -m "initial commit"
+git branch -M master
+git remote add origin https://github.com/andepraveenofficial/Namaste-React.git
+git push origin master
