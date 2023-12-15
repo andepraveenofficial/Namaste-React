@@ -1,0 +1,42 @@
+npm
+----------
+npm : package manager
+npm doesnot has abbrevation
+npm is a standard repository for all the packages.
+-------------
+npm setup
+-----------
+npm init => give your own configuration 
+npm init -y => automatic general configuration
+--------------------
+package.json => manage the App information
+=====================
+Types of Dependencies:
+------------------
+1. Dev Dependencies 
+   npm install -D parcel
+
+2. Normal Dependencies
+==============================
+version
+-----------------
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+-----
+^ => It is automatically update to minor upgrade 
+~ => It is automatically update to major upgrade 
+
+  "devDependencies": {
+    "parcel": "2.10.3"  // No Upgrade
+  }
+==============================
+package-lock.json
+------------------
+It maintains the Exact versions of Application.
+It keeps the track of all the exact versions of dependencies.
+=======================
+recreate node modules
+------
+npm install
+=========================

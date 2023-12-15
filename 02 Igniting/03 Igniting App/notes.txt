@@ -1,0 +1,7 @@
+npx is used to executing our package.
+
+npm install -D parcel 
+npx parcel index.html
+
+npm install react 
+npm install react-dom

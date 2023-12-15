@@ -1,0 +1,18 @@
+17
+97D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist133470253478405112 1
+103D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\.gitignore133470208685425108 0
+99D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\App.js133470102105268812 0
+102D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\index.css133470078146730063 0
+103D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\index.html133470078695112258 0
+105D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\node_modules133470211878454249 1
+102D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\notes.txt133470255144923712 0
+107D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\npx parcel.png133470253741593485 0
+110D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\package-lock.json133470194214388567 0
+105D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\package.json133470198454682970 0
+125D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\03 Igniting App.3464ddca.js133470253478275089 0
+129D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\03 Igniting App.3464ddca.js.map133470253478405112 0
+115D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\index.6bd02f5a.js133470253478275089 0
+119D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\index.6bd02f5a.js.map133470253478385097 0
+116D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\index.9e4c6fd2.css133470253478145097 0
+120D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\index.9e4c6fd2.css.map133470253478375120 0
+108D:\Ande Praveen\Ande Praveen\Fullstack\Frontend\06 Namaste React\02 Igniting\03 Igniting App\dist\index.html133470253478195235 0

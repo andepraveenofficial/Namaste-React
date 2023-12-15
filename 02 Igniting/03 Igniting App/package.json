@@ -1,0 +1,23 @@
+{
+	"name": "02-app-setup",
+	"version": "1.0.0",
+	"description": "This is Namaste React by Ande Praveen",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"react",
+		"andepraveen"
+	],
+	"author": "Ande Praveen",
+	"license": "ISC",
+	"devDependencies": {
+		"parcel": "^2.10.3",
+		"process": "^0.11.10"
+	},
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
