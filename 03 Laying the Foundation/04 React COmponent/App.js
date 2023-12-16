@@ -1,19 +1,54 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-// React.createElement(type, attr, children) => React Element - JS object => HTML Element
-const heading = React.createElement('h1', { id: 'heading' }, 'Namaste React');
-console.log(heading); // Object
-
-/*
-JSX => HTML like syntax => PARCEL - Babel
-JSX (transpiled before it reaches the JS Engine)
-Babel converts JSX into React code
-JSX => React.createElement(type, attr, children) => React Element - JS object => HTML Element
-*/
+// React Element
 const jsxHeading = <h1 id="heading">Namaste React using JSX</h1>;
-console.log(jsxHeading); // Object
+
+const jsxHeading2 = (
+	<h1 id="heading" className="heading">
+		Namaste React using JSX
+	</h1>
+);
+
+/*----- React Functional Component -----*/
+// Component uses PascalCase naming convention
+const HeadingComponent = () => {
+	//Return JSX
+	return <h1 id="heading">Namaste React Functional Component</h1>;
+};
+
+const HeadingComponent2 = () => <h1>Namaste React Functional Component</h1>;
+console.log(HeadingComponent2);
+
+const HeadingComponent3 = () => (
+	<h1 id="heading" className="heading">
+		Namaste React using JSX
+	</h1>
+);
+const number = 10000;
+
+// Component Composition
+const App = () => {
+	return (
+		<div>
+			<h1 id="heading" className="heading">
+				Namaste React 2
+			</h1>
+			{/* -----Component-----*/}
+			<HeadingComponent />
+			<HeadingComponent> </HeadingComponent>
+			{HeadingComponent()}
+			{/* -----React Element-----*/}
+			{jsxHeading} {/*React Element*/}
+			{/*-----JScode in JSX-----*/}
+			{number} {/*JS code*/}
+			<h2>{number}</h2>
+			{console.log('Hello JS COde')}
+		</div>
+	);
+};
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-root.render(jsxHeading); // render converts to HTML element then replaced.
+// render
+root.render(<App />);
