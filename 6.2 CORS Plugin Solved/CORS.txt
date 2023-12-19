@@ -1,0 +1,8 @@
+CORS:
+calls from one domain to another domain.
+----------
+Example :
+"https://corsproxy.io/?{myapi}"
+==========================
+It has limit 40 api calls per minute limit.
+==========================
