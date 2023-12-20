@@ -1,0 +1,4 @@
+Class based components:
+-------------
+These are older way of creating components.
+======================
