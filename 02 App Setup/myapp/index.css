@@ -1,0 +1,7 @@
+.greeting{
+    color:greenyellow;
+    background-color: orange;
+    box-shadow: 0 0 10px black;
+    padding:10px;
+    text-align: center;
+}
